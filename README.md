@@ -1,2 +1,0 @@
-# mycoding
- all my code
